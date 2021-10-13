@@ -3,7 +3,7 @@
 Hi 👋🏻,
 
 
-I am a full-stack software developer with 3 years of hands on experience from China.
+I am a full-stack software developer with 6 years of hands on experience, good problemsolving skills, proven experience in building and designing software in a testdriven environment.
 
 My Proficient Skills: 
  - Frontend: React(JS/TS) & Redux(Saga/Thunk/Slice/Mobx), Next.js, Vue.js, Angular.js
