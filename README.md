@@ -6,9 +6,9 @@ Hi 👋🏻,
 I am a full-stack software developer with 6 years of hands on experience, good problem-solving skills, proven experience in building and designing software in a test-driven environment.
 
 My Proficient Skills: 
- - Frontend: React(JS/TS) & Redux(Saga/Thunk/Slice/Mobx), Next.js, Vue.js, Angular.js
- - Backend: Django & Django Restframework, Flask, Node.js, Express.js, Laravel, CodeIgniter, Yii
- - Mobile: React Native, Ionic, Android(Java), Flutter, Objective C
+ - Frontend: React(JS/TS) & Redux(Saga/Thunk/Slice/Mobx), Next.js, Vue.js, Angular.js, Nuxt.js
+ - Backend: Django & Django Restframework, Flask, FastAPI, Node.js, Express.js, Laravel, CodeIgniter, Yii, Ruby on Rails, ASP.NET
+ - Mobile: React Native, Ionic, Android(Java), Flutter, Objective C, Swift
  - Others: Mathematics, Machine Learning, Strong Algorithm, Web Scraping, Raspberry Pi ...
 
 
