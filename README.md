@@ -3,7 +3,7 @@
 Hi 👋🏻,
 
 
-I am a full-stack software developer with 6 years of hands on experience, good problem-solving skills, proven experience in building and designing software in a test-driven environment.
+I am a full-stack software developer with 9 years of hands on experience, good problem-solving skills, proven experience in building and designing software in a test-driven environment.
 
 My Proficient Skills: 
  - Frontend: React(JS/TS) & Redux(Saga/Thunk/Slice/Mobx), Next.js, Vue.js, Angular.js, Nuxt.js
