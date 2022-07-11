@@ -3,7 +3,7 @@
 Hi 👋🏻,
 
 
-I am a full-stack software developer with 9 years of hands on experience, good problem-solving skills, proven experience in building and designing software in a test-driven environment.
+I am a full-stack software developer with 6 years of hands on experience, good problem-solving skills, proven experience in building and designing software in a test-driven environment.
 
 My Proficient Skills: 
  - Frontend: React(JS/TS) & Redux(Saga/Thunk/Slice/Mobx), Next.js, Vue.js, Angular.js, Nuxt.js
@@ -68,9 +68,3 @@ My Proficient Skills:
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
  
 </p>
-
-## 📬 Get in Touch
-
-
-- Email:  covidhunter036@gmail.com
-- Skype:   live:.cid.e66d3ccbca6de98d
